@@ -1,4 +1,4 @@
-# cinepass admin
+# cinepass admin(프로젝트 대기중)  
 
 ## 기말 과제로 같은 아키텍쳐를 사용하되, 완전 다른 프로젝트로 재구성예정
 
